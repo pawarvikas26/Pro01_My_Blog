@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* tophead section start */
+.tophead{
+    background-color: darkgreen;
+    width: 100%;
+    height: 40px;
+    padding: 3px 100px;
+    color: azure;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.tophead p{
+    display: inline-block; /* if you want to paragraph tag in single line or without block then use this */
+}
+.tophead a{
+    color: rgb(159, 240, 159);
+}
+/* tophead section end */
+
+/* Header Section start */
+header{
+    width: 100%;
+    height: 60px;
+    color: maroon;
+    background-color: lightgreen;
+    padding: 3px 100px;
+}
+.header{
+    display: inline-block;
+}
+
+/* Header Section end */
